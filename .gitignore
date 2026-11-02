@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Obsidian: share the settings, not each person's open tabs or cache
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# Big files live elsewhere (production repo, drive, Vimeo); link them instead
+*.ply
+*.splat
+*.spz
+*.mp4
+*.mov
+*.zip
