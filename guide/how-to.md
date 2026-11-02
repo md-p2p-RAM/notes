@@ -3,7 +3,7 @@
 Five rules. They keep three people from overwriting each other.
 
 1. **Pull before you start.** `git pull` gets the others' changes and the bot's updates.
-2. **Write in your own folder** (A, M or R). Shared files at the root (02_pensar, 04_crear, README) have one editor at a time: say it in the group chat before you edit one.
+2. **Write in your own folder** (A, M or R). Shared files at the root (04_crear, README) have one editor at a time: say it in the group chat before you edit one.
 3. **Commit small, with a clear message,** starting with your letter: `R: add night moodboard`.
 4. **Push right away.** If Git refuses, `git pull`, then `git push` again.
 5. **Never force-push.** `git push --force` deletes the others' work.
@@ -16,8 +16,8 @@ Five rules. They keep three people from overwriting each other.
 
 ## Links between notes (the Obsidian part)
 
-- Link with normal Markdown and a relative path: `[Pensar](../02_pensar.md)`. It works on GitHub and in Obsidian.
-- In Obsidian, `[[wikilinks]]` are off on purpose (settings are in `.obsidian/app.json`), so new links come out in the Markdown form above.
+- Link with normal Markdown and a relative path: `[Crear](../04_crear.md)`. It works on GitHub and in Obsidian.
+- In Obsidian, `[[wikilinks]]` are off on purpose, so new links come out in the Markdown form above.
 - After each push, a bot rebuilds the index on the home page and adds "Linked from" at the bottom of each note. Don't edit between the `nav` markers, it gets overwritten.
 
 ## Images
@@ -35,7 +35,6 @@ Obsidian → Open folder as vault → pick the cloned `notes` folder. Obsidian r
 
 ---
 
-↑ [Home](../README.md)  
-Linked from: [md-p2p-RAM · notes](../README.md)
+↑ [Home](../README.md)
 
 <!-- /nav:footer -->

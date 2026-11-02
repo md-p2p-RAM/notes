@@ -1,10 +1,8 @@
 # macOS
 .DS_Store
 
-# Obsidian: share the settings, not each person's open tabs or cache
-.obsidian/workspace*.json
-.obsidian/cache
-.obsidian/plugins/*/data.json
+# Obsidian: keep each person's settings out of the repo
+.obsidian/
 .trash/
 
 # Big files live elsewhere (production repo, drive, Vimeo); link them instead

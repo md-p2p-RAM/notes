@@ -1,8 +1,6 @@
-# md-p2p-RAM · notes
+# II play to prevention · notes
 
-Shared notes for A, M and R. Production files (splats, video) live elsewhere; this repo is for thinking and writing.
-
-**Start here:** [How we work](guide/how-we-work.md) · [Git in the Terminal, 10 min](guide/git-walkthrough.md)
+Shared notes of A, M and R for the HEAD project II play to prevention. Production files (splats, video) live elsewhere; this repo is for thinking and writing.
 
 **People:** [A](A/README.md) · [M](M/README.md) · [R](R/README.md)
 
@@ -11,7 +9,6 @@ Shared notes for A, M and R. Production files (splats, video) live elsewhere; th
 Updated automatically after every push. Each note also ends with "Linked from", like Obsidian's backlinks.
 
 <!-- nav:index -->
-- [02 Pensar](02_pensar.md)
 - [04 Crear](04_crear.md)
 
 **[A/](A/README.md)**
@@ -24,10 +21,9 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[R/](R/README.md)**
 
-- [My Git setup (R)](R/26-11-02_my-git-setup.md)
+- _nothing yet_
 
 **guide/**
 
-- [Git in the Terminal, 10 min](guide/git-walkthrough.md)
-- [How we work](guide/how-we-work.md)
+- [How we work](guide/how-to.md)
 <!-- /nav:index -->
