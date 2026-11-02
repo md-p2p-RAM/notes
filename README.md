@@ -9,7 +9,7 @@ Shared notes of A, M and R for the HEAD project II play to prevention. Productio
 Updated automatically after every push. Each note also ends with "Linked from", like Obsidian's backlinks.
 
 <!-- nav:index -->
-- [04 Crear](04_crear.md)
+- [04_crear · sweet-dreams](04_crear.md)
 
 **[A/](A/README.md)**
 
@@ -17,11 +17,14 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[M/](M/README.md)**
 
-- _nothing yet_
+- [Cyberpunk, worldbuilding](M/26-10-05_cyberpunk-worldbuilding.md)
+- [Virtual world, worldbuilding](M/26-10-06_virtual-world-worldbuilding.md)
+- [Storytelling](M/26-10-12_storytelling.md)
+- [Project definition](M/26-10-19_project-definition.md)
 
 **[R/](R/README.md)**
 
-- _nothing yet_
+- [Sweet Dreams, pitch](R/26-11-02_sweet-dreams-pitch.md)
 
 **guide/**
 

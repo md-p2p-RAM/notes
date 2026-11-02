@@ -3,7 +3,7 @@
 Notes by R. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in `R/img/`.
 
 <!-- nav:index -->
-_Nothing here yet._
+- [Sweet Dreams, pitch](26-11-02_sweet-dreams-pitch.md)
 <!-- /nav:index -->
 
 <!-- nav:footer -->

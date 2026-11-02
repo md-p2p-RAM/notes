@@ -1,0 +1,44 @@
+# Cyberpunk, worldbuilding
+
+_05/10/26 · with Sabrina Calvo & Douglas Edric Stanley_
+
+![notes-cover-01](img/note-cover-01.jpg)
+
+
+**Cyberpunk is not about aesthetic !** <br>
+Documentation of the marginals of the cyber society.<br>
+
+Cyber → An absolute objective point of view 
+
+Maya → Illusion 
+
+**Style is substance !**<br>
+Cyberpunk became an aesthetic trend. The political aspect has disappeared or been recycled (again and again). 
+
+**Post Cyberpounk:** <br>
+What if we can make things better ? What after the shock ? <br>
+<u>Things **can** look better once we went trough the trauma.</u>
+
+## Handwritten notes
+
+![notes01](img/notes01.jpg)
+![notes02](img/notes02.jpg)
+
+## REF:
+
+- [The Cybernetic Hypothesis](https://theanarchistlibrary.org/library/tiqqun-the-cybernetic-hypothesis)
+- [Bruce Bethke / Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk_(short_story))
+- [William Gibson / Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien)
+- [Burning Chrome](https://fr.wikipedia.org/wiki/Grav%C3%A9_sur_chrome_(nouvelle))
+- [Philip K. Dick](https://fr.wikipedia.org/wiki/Philip_K._Dick)
+- [Naked Lunch](https://en.wikipedia.org/wiki/Naked_Lunch)
+- [Do Androids Dream of Electric Sheep?)](https://fr.wikipedia.org/wiki/Les_andro%C3%AFdes_r%C3%AAvent-ils_de_moutons_%C3%A9lectriques_%3F)
+- [Critical Web Design](https://owenmundy.com/site/critical-web-design)
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->
