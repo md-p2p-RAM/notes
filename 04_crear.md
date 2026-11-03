@@ -13,7 +13,7 @@
 - influnceur : image qui est montrée // la réalité derrière
 - compte neutre // compte de harceleur
 - account // person owning the account
-### pesca
+### random ideas
 - gens qui sont obsedés
 - personnes qui te suivent juste pour se moquer de toi
 - de jour t'es sur l'interface très classique dont tout le monde a les codes
