@@ -13,7 +13,7 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[A/](A/README.md)**
 
-- _nothing yet_
+- [Persona 1 — Indecisive Girl](A/Personnas.md)
 
 **[M/](M/README.md)**
 

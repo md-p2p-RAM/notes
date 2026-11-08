@@ -3,7 +3,7 @@
 Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in `A/img/`.
 
 <!-- nav:index -->
-_Nothing here yet._
+- [Persona 1 — Indecisive Girl](Personnas.md)
 <!-- /nav:index -->
 
 <!-- nav:footer -->
