@@ -22,7 +22,7 @@ most popular girls' side kicks
 
 
 
-# Persona 2 — The Consipationist
+# Persona 2 — The Conspirationist
 
 Username : 3EYEx
 
