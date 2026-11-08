@@ -14,7 +14,7 @@ the line between victims and accomplices starts to blur. As the posts become inc
 they must decide how far they're willing to go to uncover the truth without exposing their own secrets.
 
 ## Setup
- where it happens : in a classroom 
+where it happens : in a classroom    
 who characters are : the students and teachers of that class
 
 ## Personas
