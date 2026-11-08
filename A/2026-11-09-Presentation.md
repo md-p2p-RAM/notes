@@ -20,3 +20,11 @@ who characters are : the students and teachers of that class
 ## Personas
 to be put in common :
 Who is in your story? What do they want? Who are they in conflict with (themselves, those around them)?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [A](README.md)
+
+<!-- /nav:footer -->

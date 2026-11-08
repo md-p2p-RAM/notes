@@ -13,6 +13,7 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[A/](A/README.md)**
 
+- [Ticktock Ticktock](A/2026-11-09-Presentation.md)
 - [Persona 1 — Indecisive Girl](A/Personnas.md)
 
 **[M/](M/README.md)**
