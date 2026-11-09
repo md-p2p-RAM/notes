@@ -46,8 +46,6 @@ always in search of a hidden truth (skeptical)
 possible character reference :
 Dipper from gravity falls
 
-
-
 <!-- nav:footer -->
 
 ---
