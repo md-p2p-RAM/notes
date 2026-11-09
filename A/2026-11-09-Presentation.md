@@ -1,25 +1,52 @@
-# Ticktock Ticktock
-- Raimundo SOLAR
+# Under your skin
+- Raimundo P. SOLAR
 - Aya KHANAFER
 - Maurice EGGEL
 
-## Project
-An anonymous tiktok account starts making fun of the people in a class, some students start talking to the account 
-to investigate it and they also start participating in the accounts' content by sending it things to post.
-
 ## Pitch
-When an anonymous TikTok account starts mocking students in a class, a group of classmates decides to investigate 
-who's behind it. But as they begin interacting with the account and secretly sending in content about each other, 
-the line between victims and accomplices starts to blur. As the posts become increasingly personal and cruel, 
-they must decide how far they're willing to go to uncover the truth without exposing their own secrets.
+An anonymous TikTok account begins posting AI-generated videos impersonating teachers and students, who will try to find the author and become accomplices along the way.
+
+## Project
+An anonymous TikTok account starts begins posting AI-generated videos impersonating students and teachers, turning everyday school tensions into public humiliation. A group of classmates decides to investigate who's behind it, but as they begin interacting with the account and secretly sending in content about each other, 
+the line between victims and accomplices starts to blur. As the posts become increasingly personal and cruel, they must decide how far they're willing to go to uncover the truth without exposing their own complicity.
 
 ## Setup
-where it happens : in a classroom    
-who characters are : the students and teachers of that class
+In a classroom who characters are : the students and teachers of that class
 
 ## Personas
-to be put in common :
-Who is in your story? What do they want? Who are they in conflict with (themselves, those around them)?
+Persona 1 — Indecisive Girl
+Username : Lovely_Croissant
+Question : Will she ever take a decision by herself?
+Tells : Can’t choose what croissant to order alone (or anything), is never satisfied with her choice.
+Age : 13 y.o.
+
+Time online : ~12 hours average
+Concept : chronically delegating her decissions to strangers on the internet
+Low Confidence (Indecisive and always seeking validation )
+Talkitive (talks to people easily, but can become anoying)
+hesitant (wants all the choices and none)
+
+possible character reference :
+most popular girls’ side kicks
+
+
+
+Persona 2 — The Conspirationist
+Username : 3EYEx
+Question : Will he ever find proof of his theories?
+Tells : is always distracted in class, filling his sketchbook with improbable ideas and theories.
+Age : 13 y.o.
+
+Time online : ~8 hours average
+Concept : surfing internet for proof of his conspiracy therories
+very curious (knows a lot of random things (facts and theories))
+gets fixated easily (can take a research thread pretty far)
+always in search of a hidden truth (skeptical)
+
+possible character reference :
+Dipper from gravity falls
+
+
 
 <!-- nav:footer -->
 
