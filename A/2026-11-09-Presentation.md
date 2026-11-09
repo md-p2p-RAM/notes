@@ -7,7 +7,7 @@
 An anonymous TikTok account begins posting AI-generated videos impersonating teachers and students, who will try to find the author and become accomplices along the way.
 
 ## Project
-In a secondary school, an anonymous TikTok account starts posting AI-generated videos impersonating students and teachers, turning everyday school tensions into public humiliation. A group of classmates decides to investigate who's behind the account, but as they begin interacting with it, and secretly sending in content about each other, the line between victims and accomplices starts to blur.
+In a secondary school, an anonymous TikTok account starts posting AI-generated videos impersonating students and teachers, turning everyday school tensions into public humiliation. A group of classmates decides to investigate who's behind the account. As the story evolves, everyone secretly sends in content about each other, the line between victims and accomplices starts to blur.
 As the posts become increasingly personal and cruel, they must decide how far they're willing to go to uncover the truth without exposing their own complicity.
 
 ## Setup
