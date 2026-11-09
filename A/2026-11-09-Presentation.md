@@ -11,7 +11,7 @@ An anonymous TikTok account starts begins posting AI-generated videos impersonat
 the line between victims and accomplices starts to blur. As the posts become increasingly personal and cruel, they must decide how far they're willing to go to uncover the truth without exposing their own complicity.
 
 ## Setup
-In a classroom who characters are : the students and teachers of that class
+Set in a secondary school, the story begins with an anonymous account posting deepfakes of teachers. Students eagerly circulate the videos, the administration does nothing, and one teacher even praises their creativity. Encouraged by this approval, the person behind the account starts receiving submissions targeting classmates, turning a shared joke into increasingly personal humiliation.
 
 ## Personas
 Persona 1 — Indecisive Girl
