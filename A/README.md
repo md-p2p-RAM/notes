@@ -4,6 +4,7 @@ Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in 
 
 <!-- nav:index -->
 - [Under your skin](2026-11-09-Presentation.md)
+- [Tick tack tick tack](2026-11-10.md)
 - [Persona 1 — Indecisive Girl](Personnas.md)
 <!-- /nav:index -->
 
