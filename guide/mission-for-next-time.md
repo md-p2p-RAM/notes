@@ -5,3 +5,11 @@ Mission pour la fois prochaine :
 
 ## Invesigation numerique
 look into the meme and crush accounts of teenagers (like Mariana did)
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md)
+
+<!-- /nav:footer -->

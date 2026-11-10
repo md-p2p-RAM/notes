@@ -32,4 +32,5 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 **guide/**
 
 - [How we work](guide/how-to.md)
+- [2026/11/10](guide/mission-for-next-time.md)
 <!-- /nav:index -->
