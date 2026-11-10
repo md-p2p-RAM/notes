@@ -226,3 +226,11 @@ I wonder where the story will go, if hunter will discover that top boss isn't on
 What a disgusting story, my cousin had a fungal infection and it was really awful, infected the whole football team because he didn't wear sandals in the shower. But I don't understand, do people know where this is coming from? Is everyone just going to die? What's the next steps, like if xhunterx manages to understand the link between both, will she start asking for help to other people or will top boss do this? Are they even trying to find a solution?
 
 Maybe the link isn't really obvious, if they are just looking for strange stuff like always, how can they know? Will they get infected?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [R](README.md)
+
+<!-- /nav:footer -->

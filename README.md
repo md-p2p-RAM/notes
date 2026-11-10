@@ -26,6 +26,7 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[R/](R/README.md)**
 
+- [04_crear · cooked sweet-dreams](R/04_crear.md)
 - [Sweet Dreams, pitch](R/26-11-02_sweet-dreams-pitch.md)
 
 **guide/**
