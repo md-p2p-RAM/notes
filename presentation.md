@@ -1,4 +1,6 @@
-## 2026-11-10_TIKTAK TIKTAK presentation
+# Tik Tak Tik Tak
+
+## 2026-11-10
 ### Pitch
 In a secondary school class, an anonymous TikTok account starts posting AI-generated videos featuring students. Laughter quickly turns into suffering, triggering an investigation by a small group of students.
 
