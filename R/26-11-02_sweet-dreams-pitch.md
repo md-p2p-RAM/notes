@@ -108,7 +108,6 @@ Example: If I take a real-life situation (a personal one, for instance) and chan
 
 ---
 
-↑ [Home](../README.md) · [R](README.md)  
-Linked from: [04_crear · sweet-dreams](../04_crear.md)
+↑ [Home](../README.md) · [R](README.md)
 
 <!-- /nav:footer -->

@@ -32,3 +32,11 @@ The students begin by searching for one person to blame. As their investigation 
 	1. coopératifs / collaboratifs
 3. Est-ce que tu t'es déjà retrouvé en tant que victime d'une image/post qui a circulé sans ton consentement ? 
 4. Est-ce que t'as déjà été témoin d'une situation à l'originelle virtuelle, qui a eu un grand impact sur une personne ? Comment t'as réagi ?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](README.md)
+
+<!-- /nav:footer -->
