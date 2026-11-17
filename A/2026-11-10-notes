@@ -1,0 +1,444 @@
+# **Cyberbullying Game — Organised Feedback & Design Decisions**
+
+*Consolidated notes from Mariana, Zoé, Juliana, Douglass, Maurice, and the collective discussion.*
+
+## **1. Core concept & direction**
+
+The project explores **cyberbullying as a collective, progressive, and often seemingly harmless phenomenon**, particularly within school environments and their extension into digital spaces.
+
+The central idea is to show how a small, seemingly innocent joke can escalate into harassment through repetition, social validation, anonymity, and the amplification mechanisms of social media.
+
+**Key themes:**
+
+- The blurred boundary between victim, perpetrator, and bystander.
+- Collective responsibility: everyone can become complicit, including through passive engagement.
+- The distancing effect of digital interactions: we don't immediately see the consequences of our actions.
+- The role of algorithms, anonymity, and AI in amplifying harmful content.
+- The normalization and desensitization of increasingly humiliating content.
+- The importance of bystanders and the power of withdrawing collective attention.
+
+**Central message:** The power of harassment comes partly from the people who participate in it, encourage it, or give it an audience.
+
+## **2. Feedback by person**
+
+### **Mariana — Realism, subtlety & collective responsibility**
+
+**1. Focus on ordinary, relatable forms of cyberbullying**
+
+The most effective situations may be the most seemingly insignificant ones.
+
+Examples:
+
+- Someone takes an unflattering picture of a student without their knowledge.
+- A photo is removed from its original context and given a mocking caption.
+- A student becomes a sticker used repeatedly in a group chat they aren't part of.
+- A small classroom incident becomes a recurring meme.
+- A school joke spreads through anonymous social media accounts.
+
+The more ordinary and recognizable the situation, the easier it is for teenagers to identify with it.
+
+**2. Cyberbullying as an extension of school life**
+
+Cyberbullying doesn't necessarily begin online. It often starts with an incident at school and continues digitally.
+
+The internet allows a moment to be:
+
+- Taken out of context.
+- Reinterpreted and transformed.
+- Repeated indefinitely.
+- Shared beyond its original audience.
+- Preserved as a digital trace that can resurface.
+
+The school environment is particularly sensitive because of peer judgment, reputation, and group dynamics.
+
+**3. Avoid dehumanizing the anonymous account**
+
+The account should not be presented as a supernatural monster or an all-powerful entity.
+
+There are real people behind the account, and its power depends on their actions.
+
+Technology is not above human responsibility.
+
+**4. Explore the boundaries between victim and perpetrator**
+
+The roles are not always clear-cut.
+
+Someone might participate in a joke without realizing its consequences, become a target themselves, or simultaneously experience and contribute to harassment.
+
+**5. Possible game mechanic / victory condition**
+
+The player wins when they stop following the account and the community stops feeding it.
+
+Potential actions:
+
+- Unfollow or block the account.
+- Stop submitting content.
+- Refuse to amplify harmful posts.
+- Intervene when harmful content is shared.
+- Support or warn the victim.
+
+In the case of an intimate image, possible responses include removing the content, addressing the sender's behavior, and informing and supporting the victim.
+
+**6. Research direction**
+
+Conduct an online ethnography of school-related Instagram accounts, especially:
+
+- School meme accounts.
+- Anonymous confession accounts.
+- Crush accounts.
+- Accounts where students anonymously request someone's social media handle.
+
+These can help ground the fictional account in recognizable teenage digital practices.
+
+### **Zoé — Digital distance, escalation & emotional impact**
+
+**1. The distancing effect of cyberbullying**
+
+One distinctive characteristic of cyberbullying is that the perpetrator often cannot see the victim's immediate reaction.
+
+Like spreading a rumor, the consequences are delayed or invisible.
+
+This is especially relevant during adolescence, when young people are developing their understanding of others' perspectives.
+
+**Design opportunity:** Make this distance a central mechanic of the experience.
+
+**2. The anonymous account as a black box**
+
+The account functions as an intermediary between the people submitting content and the people targeted.
+
+Users send something into a black box without necessarily knowing:
+
+- Who will see it.
+- What will happen to it.
+- How it will be transformed.
+- How much harm it might cause.
+
+The experience could explore the risks of anonymity, AI manipulation, and losing control over digital content.
+
+**3. When does the joke stop being funny?**
+
+A central question is when and how the player begins to recognize that something has gone too far.
+
+Possible turning points:
+
+- The victim becomes someone the player knows.
+- A friend of the victim intervenes.
+- The target is revealed to be an old friend or a crush.
+- The player witnesses the victim's reaction.
+- The joke becomes repetitive and unavoidable.
+- An initially harmless AI-generated animation escalates into something humiliating.
+
+This creates a gradual **reduction of emotional distance** between the player and the victim.
+
+**4. Repetition and mass participation**
+
+Harassment is not necessarily defined by one extreme action.
+
+It can emerge through:
+
+- Repetition over time.
+- Increasing numbers of participants.
+- The same joke being reproduced in different contexts.
+- A gesture or phrase spreading across an entire school.
+
+For example, everyone begins repeating a gesture associated with one student. What initially seemed funny becomes overwhelming.
+
+**5. Escalation and consequences**
+
+The story could begin with a lighthearted deepfake or AI-generated dance and gradually escalate toward more serious, potentially criminal behavior, such as creating a sexualized deepfake.
+
+The aim is to show how small acts can contribute to increasingly harmful dynamics without introducing unnecessary harmful ideas.
+
+**6. Narrative questions**
+
+- At what point does the player recognize the harm?
+- When should someone intervene?
+- What changes when the victim becomes emotionally closer to the player?
+- Can the player stop the escalation?
+- Should the story have multiple endings?
+
+**Reference to explore:** Emmanuelle Piquet — therapeutic approaches to bullying and strengthening victims' capacity to respond.
+
+### **Juliana — Player complicity**
+
+**Central question: How can students themselves become complicit?**
+
+The game should not position players only as external observers or rescuers.
+
+Instead, they should experience the ways in which ordinary actions contribute to harassment.
+
+Possible forms of complicity:
+
+- Liking a post.
+- Following the account.
+- Sharing a meme.
+- Submitting content.
+- Laughing at a joke.
+- Repeating a gesture.
+- Remaining silent when someone is humiliated.
+
+**Design implication:** The player's participation should have visible consequences for the account's reach and the story's progression.
+
+### **Douglass — Reimagining the black box**
+
+**Central question: What happens if people start feeding the black box positive content?**
+
+Rather than only shutting down the account, the game could explore whether the same system can be redirected.
+
+Questions to investigate:
+
+- Can the account amplify kindness instead of mockery?
+- Does positive participation change the algorithm's behavior?
+- Can users collectively transform the culture surrounding an account?
+- Is refusing to participate more effective than trying to change the content?
+
+This creates a potential alternative to a purely negative or punitive ending.
+
+### **Maurice — The intermediary account**
+
+The account acts as an intermediary between the harasser and the victim.
+
+This structure blurs the lines of responsibility.
+
+Someone may submit content without directly publishing it, while the account transforms and distributes it.
+
+**Key question:** Who is responsible when harm is produced through multiple layers of participation?
+
+## **3. Decisions & emerging design principles**
+
+**Decisions and directions to retain**
+
+Working synthesis
+
+**Do not call the account a monster**
+
+Avoid presenting technology as an independent, all-powerful evil. Emphasize the people behind it.
+
+**Use an algorithmic AI account**
+
+Explore an account that selects, transforms, and publishes content submitted by students.
+
+**Start with an ordinary school incident**
+
+Choose something small, relatable, and apparently harmless rather than extreme harassment from the beginning.
+
+**Make everyone potentially complicit**
+
+Show how the collective gives the account its influence.
+
+**Allow an uncomfortable ending**
+
+The player may discover that there are no clear consequences for those responsible.
+
+**Explore algorithmic amplification**
+
+Content becomes increasingly extreme as engagement and reactions reward escalation.
+
+**Avoid glorifying or teaching harassment**
+
+The experience should encourage reflection without providing a catalogue of harmful tactics.
+
+*The checklist distinguishes ideas to retain in the design process; not all narrative and technical choices have been finalized.*
+
+## **4. Proposed narrative structure**
+
+### **The starting point**
+
+A minor, slightly ridiculous incident happens at school.
+
+For example, a student gives an awkward answer to a teacher, makes an embarrassing gesture, or is photographed at an unfortunate moment.
+
+Someone turns it into a meme.
+
+People laugh. The meme is shared. It becomes recognizable.
+
+An anonymous account begins reposting and transforming the content, using an AI-driven algorithm that selects what gets the most engagement.
+
+The same incident becomes increasingly detached from its original context.
+
+### **Possible seven-chapter progression**
+
+The idea of **seven chapters / seven sins** was mentioned as a possible narrative framework. The seven stages below are a working proposal rather than finalized decisions.
+
+1. **Chapter 1 — The Joke**
+
+   A small classroom incident becomes a meme. People laugh and share it. It feels harmless.
+2. **Chapter 2 — The Sticker**
+
+   The student's face or gesture becomes a sticker repeatedly used in group chats, including groups the student cannot access.
+3. **Chapter 3 — The AI Remix**
+
+   The account uses AI to animate or transform the original content. The joke spreads further.
+4. **Chapter 4 — The Offline Imitation**
+
+   Students begin recreating the meme at school. Digital mockery becomes a physical group behavior.
+5. **Chapter 5 — The Escalation**
+
+   The account demands increasingly attention-grabbing content. The joke loses its original context, and the humiliation intensifies.
+6. **Chapter 6 — The Confrontation**
+
+   The player sees the impact on the victim or is confronted by someone close to them. The emotional distance collapses.
+7. **Chapter 7 — The Consequences**
+
+   The player faces the question of whether to continue participating, intervene, redirect the account, or withdraw attention. The ending reflects the collective response.
+
+**Important narrative principle:** Escalation should be driven by repetition, amplification, and social participation—not simply by making each new post more shocking.
+
+## **5. Game mechanics & player experience**
+
+### **The account as an algorithmic system**
+
+The account could operate like a simplified social media algorithm:
+
+**Students submit content**
+
+Memes, photos, jokes, anonymous messages
+
+**The AI account selects and transforms it**
+
+Prioritizing content that generates reactions
+
+**Students react**
+
+Likes, shares, comments, submissions, silence
+
+**The system learns what attracts attention**
+
+Potentially increasing repetition and intensity
+
+The feedback loop continues
+
+This creates an opportunity to teach students how recommendation systems and engagement-based amplification can operate, without suggesting that algorithms alone are responsible.
+
+### **Possible player actions**
+
+| Action                  | Possible narrative consequence                                         |
+| ----------------------- | ---------------------------------------------------------------------- |
+| Like or share           | Increases visibility and social validation                             |
+| Submit content          | Feeds the account                                                      |
+| Ignore                  | May allow the pattern to continue, depending on context                |
+| Comment against it      | Challenges the group norm, potentially exposing the player to backlash |
+| Support the victim      | Reduces emotional distance and strengthens solidarity                  |
+| Report or block         | Interrupts participation or initiates intervention                     |
+| Unfollow                | Withdraws attention from the account                                   |
+| Submit positive content | Tests whether the system can be redirected                             |
+
+### **Possible endings**
+
+**Ending A — Collective withdrawal:** The account loses its influence because people stop engaging with it.
+
+**Ending B — Continued escalation:** The player fails to intervene and the harassment continues, with little accountability. The lack of consequences is deliberately uncomfortable.
+
+**Ending C — Intervention:** The player or other students intervene, leading to a change in the situation, even if there are difficult short-term consequences.
+
+**Ending D — Redirecting the system:** Students collectively transform the account by submitting supportive or positive content.
+
+These are possibilities to test, not final endings.
+
+## **6. Pedagogical & ethical considerations**
+
+### **Avoid inadvertently encouraging cyberbullying**
+
+One of the major concerns raised was whether a game about cyberbullying might actually give students new ideas or normalize the behavior.
+
+The collective discussion drew comparisons with how educators address suicide and sexuality: avoiding the topic does not necessarily prevent harm, but the way it is discussed matters.
+
+**Principles to retain:**
+
+- Assume students are not inherently malicious.
+- Avoid presenting detailed harassment methods as inspiration.
+- Make consequences understandable without relying exclusively on shock.
+- Show that bystanders have agency.
+- Legitimize students who feel that a situation is not okay, even when everyone else is laughing.
+- Avoid taking unnecessary risks with extreme content.
+- Ensure that the experience does not reproduce the victim's humiliation.
+
+### **Make the temporality of intervention visible**
+
+A key educational point is that intervening or speaking out can have difficult immediate consequences.
+
+For example, the first person to denounce harassment may become a target themselves.
+
+However, their intervention may also allow others to speak up, weaken the harassers' social power, and eventually change the group dynamic.
+
+The game should avoid implying that doing the right thing always produces an immediate positive outcome.
+
+**Core insight:** Harassers derive much of their social power from the people who follow, support, or validate them.
+
+## **7. Open questions to resolve**
+
+**Design questions**
+
+0/11 resolved
+
+AllNarrativePoint of viewPlatformMechanicsPedagogyResearch
+
+Narrative
+
+Should the story be linear or interactive, with choices changing its progression?
+
+Narrative
+
+Should the game have one ending or several?
+
+Narrative
+
+Should the player discover who created the account? Could it have started as a group project?
+
+Point of view
+
+Should the entire experience be seen through the anonymous account?
+
+Platform
+
+Does it need to resemble TikTok or Instagram, or should it be a fictional group platform?
+
+Mechanics
+
+How do the player's actions affect the algorithm and escalation?
+
+Mechanics
+
+What happens when students feed the system positive content?
+
+Pedagogy
+
+At what point does the player begin to recognize the harm?
+
+Pedagogy
+
+How can the game make students feel their own complicity without shaming them?
+
+Pedagogy
+
+How do we represent the difficult short-term consequences of speaking up?
+
+Research
+
+Which real school situations and meme formats are most relatable to the target audience?
+
+## **8. Next steps**
+
+1\. **Conduct a short online ethnography.** Examine school meme accounts, anonymous confession pages, crush accounts, and examples of recurring jokes in Swiss school contexts.
+
+2\. **Speak with teenagers.** Ask which everyday situations feel recognizable and which kinds of memes or jokes are actually shared in their communities.
+
+3\. **Select one realistic starting incident.** Prefer an ordinary school moment that can be transformed into multiple digital formats.
+
+4\. **Prototype the seven-post progression.** Develop seven consecutive posts around the same incident, showing how the situation changes through engagement and repetition.
+
+5\. **Define the account's rules.** Clarify how the AI selects content, how students feed it, and how engagement affects its behavior.
+
+6\. **Test narrative choices and endings.** Compare a linear version with an interactive version, and explore the emotional effect of different outcomes.
+
+7\. **Review the pedagogical risks.** Check whether the experience encourages empathy, reflection, and intervention without unintentionally teaching new harassment practices.
+
+## **9. Overall synthesis**
+
+The strongest emerging direction is **a game about how an ordinary school joke becomes collective cyberbullying through an anonymous, algorithm-driven account.**
+
+Rather than focusing on an obviously malicious bully, the experience would reveal how harassment can emerge from a series of small, apparently insignificant actions performed by ordinary students.
+
+The account becomes a mirror of collective behavior: it grows because people feed it, and its content escalates because people continue responding.
+
+The central design challenge is to make the player gradually recognize their own role in this process, understand the real consequences for the victim, and discover that **the power to interrupt harassment lies not only with authorities or the platform, but also with the group that sustains it.**
