@@ -15,6 +15,7 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 - [Under your skin](A/2026-11-09-Presentation.md)
 - [Tick tack tick tack](A/2026-11-10.md)
+- [When a Joke Doesn't End](A/2026-11-17-pitch.md)
 - [Persona 1 — Indecisive Girl](A/Personnas.md)
 
 **[M/](M/README.md)**
