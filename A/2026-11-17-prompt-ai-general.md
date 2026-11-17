@@ -23,3 +23,11 @@ Testing & Open Questions: What do we need to learn from a first playtest? What c
 Follow the conversation rather than treating these areas as a rigid questionnaire. Connect questions about meaning and experience with questions about how the project could work. Do not assume that AI needs to be part of the playable experience.
 When our intentions and possible development directions are sufficiently clear, ask whether we are ready to draft a Working Project Definition. Important uncertainties can remain, provided they are clearly identified.
 Start by asking us to describe our current proposal and what we most need to clarify as we begin Phase II.
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [A](README.md)
+
+<!-- /nav:footer -->
