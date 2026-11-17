@@ -133,3 +133,11 @@ After the first open question I asked for options, so from then on each question
 13. How does the prototype end?
 14. What should the first playtest tell us?
 15. Is the aim to understand how the joke spreads, or to recognise our own role in it, or both?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [A](README.md)
+
+<!-- /nav:footer -->
