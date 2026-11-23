@@ -138,6 +138,6 @@ After the first open question I asked for options, so from then on each question
 
 ---
 
-↑ [Home](../README.md) · [A](README.md)
+↑ [Home](../../README.md)
 
 <!-- /nav:footer -->
