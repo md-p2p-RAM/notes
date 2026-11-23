@@ -28,6 +28,6 @@ Start by asking us to describe our current proposal and what we most need to cla
 
 ---
 
-↑ [Home](../README.md) · [A](README.md)
+↑ [Home](../../README.md)
 
 <!-- /nav:footer -->
