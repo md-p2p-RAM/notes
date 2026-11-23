@@ -174,6 +174,6 @@ That is what gives the project its coherence, and it also gives you a clear crit
 
 ---
 
-↑ [Home](../README.md) · [A](README.md)
+↑ [Home](../../README.md)
 
 <!-- /nav:footer -->
