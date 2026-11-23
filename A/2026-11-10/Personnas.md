@@ -47,6 +47,6 @@ Dipper from gravity falls
 
 ---
 
-↑ [Home](../README.md) · [A](README.md)
+↑ [Home](../../README.md)
 
 <!-- /nav:footer -->

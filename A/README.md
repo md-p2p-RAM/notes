@@ -3,14 +3,13 @@
 Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in `A/img/`.
 
 <!-- nav:index -->
-- [Persona 1 — Indecisive Girl](Personnas.md)
-
 **2026-11-09/**
 
 - [Under your skin](2026-11-09/Presentation.md)
 
 **2026-11-10/**
 
+- [Persona 1 — Indecisive Girl](2026-11-10/Personnas.md)
 - [Tick tack tick tack](2026-11-10/pitch.md)
 
 **2026-11-17/**
