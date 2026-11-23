@@ -1,4 +1,4 @@
-# **FORWARDED
+# FORWARDED
 
 - Raimundo P. SOLAR
 - Aya KHANAFER
