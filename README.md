@@ -1,8 +1,6 @@
 # II play to prevention · notes
 
-Shared notes of A, M and R for the HEAD project II play to prevention. Production files (splats, video) live elsewhere; this repo is for thinking and writing.
-
-**People:** [AYA](A/README.md) · [MAURICE](M/README.md) · [raimundo](R/README.md)
+**TEAM** [AYA](A/README.md) · [MAURICE](M/README.md) · [raimundo](R/README.md)
 
 ## 2026-11-23 · GDD_v00
 ### Title
