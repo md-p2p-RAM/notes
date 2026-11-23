@@ -181,3 +181,11 @@ The final sequence reconstructs the experience from Camille's perspective, showi
 The objective is not to defeat a bully or achieve a perfect ending, but to make players aware of their own position within a collective situation.
 
 **The central question is not simply whether the player would bully someone, but what they would do when everyone around them is participating.**
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../../README.md)
+
+<!-- /nav:footer -->
