@@ -13,12 +13,12 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **[A/](A/README.md)**
 
-- [Under your skin](A/2026-11-09-Presentation.md)
 - [Tick tack tick tack](A/2026-11-10.md)
 - [When a Joke Doesn't End](A/2026-11-17-concepth.md)
 - [Inverted Interview — Summary (Aya)](A/2026-11-17-interview-summary-aya.md)
 - [2026-11-17-prompt-ai-general](A/2026-11-17-prompt-ai-general.md)
 - [Persona 1 — Indecisive Girl](A/Personnas.md)
+- [Under your skin](A/2026-11-09/Presentation.md)
 
 **[M/](M/README.md)**
 
