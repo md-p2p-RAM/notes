@@ -3,7 +3,6 @@
 Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in `A/img/`.
 
 <!-- nav:index -->
-- [Tick tack tick tack](2026-11-10.md)
 - [When a Joke Doesn't End](2026-11-17-concepth.md)
 - [Inverted Interview — Summary (Aya)](2026-11-17-interview-summary-aya.md)
 - [2026-11-17-prompt-ai-general](2026-11-17-prompt-ai-general.md)
@@ -12,6 +11,10 @@ Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in 
 **2026-11-09/**
 
 - [Under your skin](2026-11-09/Presentation.md)
+
+**2026-11-10/**
+
+- [Tick tack tick tack](2026-11-10/pitch.md)
 <!-- /nav:index -->
 
 <!-- nav:footer -->
