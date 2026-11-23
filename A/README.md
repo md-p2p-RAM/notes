@@ -20,7 +20,7 @@ Notes by A. Start a new one as `yy-mm-dd_topic.md` in this folder; images go in 
 
 **2026-11-23/**
 
-- [**FORWARDED](2026-11-23/Pitch.md)
+- [FORWARDED](2026-11-23/Pitch.md)
 <!-- /nav:index -->
 
 <!-- nav:footer -->

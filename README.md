@@ -19,7 +19,7 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 - [When a Joke Doesn't End](A/2026-11-17/concepth.md)
 - [Inverted Interview — Summary (Aya)](A/2026-11-17/interview-summary-aya.md)
 - [prompt-ai-general](A/2026-11-17/prompt-ai-general.md)
-- [**FORWARDED](A/2026-11-23/Pitch.md)
+- [FORWARDED](A/2026-11-23/Pitch.md)
 
 **[M/](M/README.md)**
 
