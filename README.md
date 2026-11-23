@@ -40,5 +40,5 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 
 **latest-pitch/**
 
-- [**Under Your Skin**](latest-pitch/2026-11-23/pitch.md)
+- [**Forwarded**](latest-pitch/2026-11-23/pitch.md)
 <!-- /nav:index -->
