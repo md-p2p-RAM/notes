@@ -173,6 +173,71 @@ LÉGITIMITÉ ───────► HÉSITATION (intervenir en public)
 - La flamme crée-t-elle une vraie hésitation, ou se contente-t-on de l'optimiser comme un score ?
 - L'hésitation publique (D) est-elle ressentie comme une pression ou comme une simple contrainte d'interface ?
 
+<hr>
+
+# Prototype web 0.3
+
+[→ Ouvrir le prototype](prototypes/26-11-24_v03/index.html) (ouvrir `index.html` dans un navigateur, 5 minutes environ ; on passe au jour suivant quand on veut)
+
+Trois journées tirées de *Under Your Skin* : vendredi (la vidéo), samedi (le sticker et le sondage), lundi (la compil). Le prototype teste le système ci-dessus : l'attention, les flammes, le vocabulaire, l'hésitation et les avatars. Il se termine par les Souvenirs, puis les notes de Camille.
+
+- `scenario.js` : tout le contenu modifiable (personnages, flammes de départ, seuil de légitimité, mots, messages et timing de chaque journée).
+- `avatar.js` : les avatars dessinés en SVG et leurs humeurs.
+- `game.js` : les règles.
+- Touche **D** : afficher le panneau de conception (flammes chiffrées, seuils). Il est caché par défaut pour les playtests.
+
+**Changements 0.2 → 0.3**
+- On apprend les mots en les lisant : ils sont surlignés dans les messages (par exemple Camille écrit « dis-leur d'arrêter », et on obtient « arrête »). D'autres n'arrivent que selon les choix (dire la vérité à Camille donne « désolé·e »). 19 mots au total.
+- Le premier jour est guidé, étape par étape.
+- Une seule réponse à la fois (« oui » remplace « non »), deux mots maximum.
+- Les notifications s'affichent dans la barre d'état et ne cachent plus le bouton retour.
+- La batterie devient l'**attention 👁** : 3 conversations différentes à suivre par jour, et rouvrir une conversation déjà suivie est gratuit.
+
+**Changements 0.1 → 0.2**
+- Les jours ne passent plus seuls, et le rythme est deux fois plus lent. Les personnages « écrivent… » avant de répondre.
+- Les conversations apparaissent au fil de l'histoire : Camille et Thomas, puis le groupe, Sarah et le compte @memes_college.
+- Au début, on ne peut répondre que oui ou non, et seulement quand on te pose une question. Les mots du groupe arrivent avec le groupe, les autres te sont appris par quelqu'un (Sarah, Camille).
+- La couleur indique d'où vient un mot (toi, groupe, appris), pas s'il est bien ou mal.
+- L'hésitation dépend de ce qu'on dit et devant qui : 😂 part tout de suite, « arrête » devant le groupe demande 3 s.
+- La batterie limite les ouvertures de conversation par jour.
+- Les flammes n'affichent plus de chiffres, seulement leur taille. Face à Thomas, trois paliers : il se moque, il négocie (Léa peut faire basculer), il arrête.
+- Les combinaisons ont un sens (« arrête 😂 » n'est pas pris au sérieux). La vidéo affiche un compteur de vues.
+
+<hr>
+
+# Feedback from Douglas
+
+Remove overly defined aesthetics!!!!
+
+The most important thing for now is functionality. Take one element of an idea, test it, and push it as far as possible while keeping everything as simple as possible.
+
+--> Procedural rhetoric <br>
+
+Procedural rhetoric refers to the way a system, game, or interactive medium communicates ideas and conveys meaning through its rules, mechanics, and interactions, rather than through text or imagery alone.
+
+# Prototype 0.4 : inventaire de langage (version réduite)
+
+[prototypes/26-11-24_inventaire/index.html](prototypes/26-11-24_inventaire/index.html) : à ouvrir dans un navigateur.
+
+On retire tout ce qui est esthétique (couleurs, emoji, avatars, flammes, attention, temps de maintien) pour tester une seule mécanique : **une conversation, une personne (Camille), on garde ses mots pour pouvoir les utiliser.**
+
+- Au début, tu n'as que trois mots : `oui`, `non`, `mdr`.
+- Les mots soulignés dans les messages de Camille peuvent être gardés en cliquant dessus. Tu ne peux répondre qu'avec ce que tu as gardé, 3 mots maximum. `oui` et `non` ne vont pas ensemble.
+- Certains mots n'apparaissent que selon tes réponses. Par exemple, dire la vérité fait écrire « désolé » à Camille tout de suite, mentir le fait arriver seulement lundi.
+- Camille rapporte aussi les mots des autres (« c'est pour rire », « je suis là »). On peut les garder, mais ils n'ont pas le même effet.
+- Un même mot change de sens selon à qui on le dit. Si tu envoies « arrête » à Camille, elle comprend : « c'est moi le problème ? »
+- La fin récapitule ce que tu as dit, les mots gardés mais jamais dits, les mots lus mais pas gardés, et ceux que Camille n'a jamais écrits à cause de tes réponses.
+
+Le scénario tient dans `scenario.js` (des moments, des règles avec les mots requis, les réponses). Le prototype 0.3 reste dans `prototypes/26-11-24_v03/`.
+
+## First interface --> too much information / aesthetic too pronounced
+
+![interface01](img/interface-01.jpg)
+
+## Second interface --> much simpler / the focus is solely on functionality
+
+![interface02](img/interface-02.jpg)
+
 <!-- nav:footer -->
 
 ---
