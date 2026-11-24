@@ -68,6 +68,13 @@ Updated automatically after every push. Each note also ends with "Linked from", 
 - [Virtual world, worldbuilding](M/26-10-06_virtual-world-worldbuilding.md)
 - [Storytelling](M/26-10-12_storytelling.md)
 - [Project definition](M/26-10-19_project-definition.md)
+- [Sweet [Digital] Dreams](M/26-11-02_sweet-dreams-pitch.md)
+- [Feedback](M/26-11-09_feedback.md)
+- [Project clarification](M/26-11-10_project-clarification.md)
+- [Project clarification, online ethnography](M/26-11-16_online-ethnography.md)
+- [Talking to robots](M/26-11-17_talking-to-robots.md)
+- [Working project definition v0.1](M/26-11-17_working-project-definition.md)
+- [Snapchat, game design](M/26-11-24_snapchat-game-design.md)
 
 **[R/](R/README.md)**
 

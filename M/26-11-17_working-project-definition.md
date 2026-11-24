@@ -117,3 +117,11 @@ Propositions, pas des décisions :
 - **Prototype papier :** un fil de posts imprimés + des cartes-actions (liker, commenter, envoyer, ignorer). Trois personnes jouent chacune un personnage. Permet de tester la bascule et l'effet de groupe sans coder.
 - **Maquette web minimale :** un faux fil en HTML/CSS/JS avec 5–8 posts, 3–4 verbes, et un changement de personnage. Permet de tester le rythme et la lisibilité.
 - **Question unique à tester en premier :** les joueur·euses remarquent-ils·elles le moment où ils·elles ont commencé à nourrir le compte ?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->

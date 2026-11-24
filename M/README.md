@@ -11,6 +11,13 @@ Start a new note as `yy-mm-dd_topic.md` in this folder; images go in `M/img/`.
 - [Virtual world, worldbuilding](26-10-06_virtual-world-worldbuilding.md)
 - [Storytelling](26-10-12_storytelling.md)
 - [Project definition](26-10-19_project-definition.md)
+- [Sweet [Digital] Dreams](26-11-02_sweet-dreams-pitch.md)
+- [Feedback](26-11-09_feedback.md)
+- [Project clarification](26-11-10_project-clarification.md)
+- [Project clarification, online ethnography](26-11-16_online-ethnography.md)
+- [Talking to robots](26-11-17_talking-to-robots.md)
+- [Working project definition v0.1](26-11-17_working-project-definition.md)
+- [Snapchat, game design](26-11-24_snapchat-game-design.md)
 <!-- /nav:index -->
 
 <!-- nav:footer -->

@@ -172,3 +172,11 @@ LÉGITIMITÉ ───────► HÉSITATION (intervenir en public)
 - Les joueur·euses lisent-ils·elles l'état de Camille à travers son avatar, sans texte explicite ?
 - La flamme crée-t-elle une vraie hésitation, ou se contente-t-on de l'optimiser comme un score ?
 - L'hésitation publique (D) est-elle ressentie comme une pression ou comme une simple contrainte d'interface ?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->

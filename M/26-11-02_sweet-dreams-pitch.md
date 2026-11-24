@@ -187,3 +187,11 @@ Their private messages are exposed, revealing how obsessed they are with control
 
 **What are they ashamed of?**: 
 - Realizing they helped the monster become more powerful by feeding it content.
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->

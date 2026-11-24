@@ -36,3 +36,11 @@ Try to describe the experience that the game can create for the player.<br>
 Critically evaluate all decisions/proposals put forward by the robots, in order to return to the most essential elements of the project.
 
 For example, if a reference is provided, you must examine all aspects of that reference → such as why it is or is not relevant...
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->

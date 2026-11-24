@@ -51,3 +51,11 @@ Que vont ils / elles apprendre ? Comment cela impacte le quotidien de ces jeunes
 - Comment protéger les joueur.euse.s 
 
 - Que deviennent les connaissances produites ?
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->

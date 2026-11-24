@@ -57,3 +57,11 @@ Our experience shows how social media algorithms amplify or prolong harassment.
     - Do you play any games? If so, which one ?
     - Do you play cooperative games? If so, what interests you about them ?
     -
+
+<!-- nav:footer -->
+
+---
+
+↑ [Home](../README.md) · [M](README.md)
+
+<!-- /nav:footer -->
